@@ -300,7 +300,7 @@ jobs:
           live_activity \
           negative_insulin \
           # bolus_display \
-          no_auth \
+          # no_auth \
           g7_scan
 
           # the final customization listed above CANNOT have a continuation character
