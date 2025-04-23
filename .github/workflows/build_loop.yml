@@ -299,7 +299,7 @@ jobs:
           basal_lock \
           live_activity \
           negative_insulin \
-          bolus_display \
+          #bolus_display \
           no_auth \
           g7_scan
 
