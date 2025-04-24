@@ -300,7 +300,6 @@ jobs:
           basal_lock \
           live_activity \
           negative_insulin \
-          bolus_display \
           no_auth 
 
           # the final customization listed above CANNOT have a continuation character
